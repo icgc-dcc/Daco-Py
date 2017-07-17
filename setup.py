@@ -7,8 +7,8 @@ setup(
     description = 'Simple DACO Client',
     author = 'andricDu',
     author_email = 'dusan.andric@oicr.on.ca',
-    url = '',
-    download_url = '',
+    url = 'https://github.com/icgc-dcc/Daco-Py',
+    download_url = 'https://github.com/icgc-dcc/Daco-Py',
     keywords = ['ICGC', 'DACO'],
     classifiers = [],
 )
